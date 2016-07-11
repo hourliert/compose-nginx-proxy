@@ -1,4 +1,4 @@
-# compose-wordpress
+# compose-nginx-proxy
 
 It comes with `nginx-proxy` and `letsencrypt-nginx-proxy-companion`.
 
